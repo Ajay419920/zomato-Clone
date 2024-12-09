@@ -1,0 +1,417 @@
+ * {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'poppins', sans-serif;
+    font-weight: 100;
+}
+
+head {
+    margin-left: 209.6px;
+    margin-right: 209.6px;
+}
+
+header {
+    background-image: url("image/jbj.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    color: #ffffff;
+}
+
+.head {
+    display: flex;
+    justify-content: end;
+    margin-right: 13%;
+    text-align: center;
+    padding-top: 30px;
+    gap: 3%;
+    color: #ffffff;
+}
+
+.header-item {
+    padding-top: 3rem;
+}
+
+.get-span {
+    margin-right: 34%;
+    font-size: small;
+}
+
+li {
+    list-style-type: none;
+    font-size: large;
+    font-weight: 100;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    padding: 2%;
+    background: transparent;
+    height: 6rem;
+    max-height: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header p {
+
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.container1 {
+    display: flex;
+}
+
+.mb-3 {
+    display: flex;
+    height: 3.3rem;
+}
+
+.input-group-text {
+    width: 243px;
+    height: 52px;
+}
+
+.input-group {
+    align-items: center;
+    justify-content: center;
+}
+
+.search {
+    display: flex;
+}
+
+.form-control {
+    border-radius: 0px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    width: 482px;
+    height: 52px;
+}
+
+.container1 {
+    padding: 3%;
+    justify-content: center;
+    gap: 2%;
+    max-height: initial;
+}
+
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+.card-text {
+    text-overflow: ellipsis;
+}
+
+.div-item {
+
+    /* width: 1000px; */
+}
+
+.heading2 {
+    width: 200px;
+    margin-left: 180px
+}
+
+.p-para2 {
+   
+    height: 24px;
+    color: lightcoral;
+    margin-left: 200px;
+}
+
+.coll-para {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 120px;
+    margin-right: 110px;
+}
+
+/* .div-para {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    margin-top: 0.4rem;
+    margin-left: 209.6px;
+}  */
+
+.sec1 {
+    display: flex;
+    padding-top: 2%;
+    justify-content: center;
+    gap: 1%;
+}
+
+.item1 {
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+.new-text {
+    position: relative;
+    top: -15%;
+    color: #ffffff;
+    left: 1.4rem;
+    font-size: larger;
+}
+
+.new-places {
+    position: relative;
+    top: -20%;
+    color: #ffffff;
+    left: 1.4rem;
+}
+
+h3 {
+    width: 600px;
+    margin-left: 209.6px;
+}
+
+.grid1 {
+    border: 2px solid beige;
+    width: 350px;
+    height: 90pX;
+    border-radius: 15px;
+    box-shadow: #ffffff;
+}
+
+.grid-item1 {
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+    padding-top: 3%;
+}
+
+.grid-item2 {
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+    margin-top: 1%;
+}
+
+.grid-item3 {
+
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+    margin-top: 1%;
+}
+
+.grid-title {
+    position: relative;
+    left: 1rem;
+    top: 1rem;
+}
+
+.grid-text {
+    position: relative;
+    left: 1rem;
+}
+
+.grid-image {
+    position: relative;
+    left: 20rem;
+    top: -3rem;
+    display: flex;
+}
+
+.grid-image1 {
+    position: relative;
+    left: 4rem;
+    top: -1.3rem;
+}
+
+.grid-class {
+    border: 2px solid beige;
+    width: 350px;
+    height: 90pX;
+    border-radius: 15px;
+    box-shadow: #ffffff;
+    text-align: center;
+    font-size: larger;
+}
+
+.see-more {
+    position: relative;
+    top: 2rem;
+}
+
+.app {
+
+    margin-top: 8rem;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    background-color: rgb(255 251 242);
+    color: #000000;
+}
+
+.app-image {
+    margin-top: 3rem;
+}
+
+h4 {
+    position: relative;
+    top: -6rem;
+    font-size: 2rem;
+    color: #000000;
+    width: 450px;
+    height: 56px;
+}
+
+.paragh {
+    margin-top: -7rem;
+}
+
+.paragh2 {
+    margin-top: 1rem;
+}
+
+.zomo {
+    display: flex;
+    flex-direction: column;
+}
+
+.in-text {
+
+    width: 292px;
+    height: 42px;
+    border-radius: 5px;
+}
+
+.butn {
+    height: 45px;
+    width: 150px;
+    background-color: red;
+    color: #ffffff;
+    margin-left: 1rem;
+    border-radius: 5px;
+}
+
+.accordion {
+    margin-top: 1rem;
+    background: rgb(252, 252, 252);
+}
+
+.accordion-collapse a {
+    display: inline-block;
+    text-align: left;
+    text-decoration: none;
+    color: rgb(130, 130, 130);
+    margin-bottom: 1.2rem;
+    width: 20%;
+    font-size: 1rem;
+    line-height: 1.8;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    vertical-align: bottom;
+}
+
+.explores {
+    align-items: center;
+    margin-left: 209.6px;
+    margin-right: 209.6px;
+}
+
+.heading5 {
+    font-size: 2rem;
+    color: #000000;
+    margin-left: 209.6px;
+    margin-top: 4rem;
+    width: 500px;
+}
+
+.accordion-button {
+    font-size: 1.3rem;
+}
+
+.accordion-item {
+    margin-top: 1.3rem;
+}
+
+
+  /* footer===================   */
+
+footer {
+    margin-top: 3rem;
+    margin-left: 209.6px;
+    margin-right: 209.6px;
+}
+
+h6 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.logo-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.span2-div {
+
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 109px;
+    height: 37px;
+    text-align: center;
+    position: relative;
+    left: 20rem;
+}
+
+.span3-div {
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 109px;
+    height: 37px;
+    text-align: center;
+}
+
+.zomato-container {
+    display: flex;
+    padding-top: 1rem;
+    justify-content: space-between;
+}
+
+footer p {
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.az {
+    position: relative;
+    right: 2rem;
+}
+
+.last-image {
+    padding-top: 1rem;
+}
+
+.last-image img {
+    padding-top: 0.3rem;
+}
+
+.hr {
+    margin-left: 209.6px;
+    margin-right: 209.6px;
+}
